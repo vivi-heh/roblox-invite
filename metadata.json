@@ -1,0 +1,6 @@
+{
+  "name": "Children's Day Party Adventure",
+  "description": "A cheerful Roblox-inspired dress-up and preparation adventure game for Children's Day Party.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
